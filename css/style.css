@@ -35,7 +35,7 @@ html{
 .header_middle{
     width: 100%;
     position: fixed;
-    top: 45px;
+    top: 43px;
     z-index: 1000;
     background: #000;
     justify-content: space-between;
