@@ -487,3 +487,22 @@ footer{
         padding-left: 10px;
     }
 }
+
+@media screen and (max-width:390px){
+
+    .header_middle_inner1 ul li a{
+        font-size: 16px;
+    }
+
+    .hide{
+        font-size: 27px;
+    }
+
+    .block2_inner i{
+        font-size: 22px;
+    }
+    
+    .block2_inner p{
+        font-size: 20px;
+    }
+}
